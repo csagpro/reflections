@@ -15,3 +15,7 @@ Quais são algumas das situações em que branches seriam úteis para manter seu
 
 	Resp. Quando queremos criar novas funcionalidades ou modificar o código de forma mais drástica, podemos criar branches sem afetar o projeto principal. Ele permite uma mudança de contexto, ao passo que podemos iniciar ou continuar uma parte do projeto sem afetar o restante, pausar e continuar depois em outra parte. No que tange o trabalho em equipe, é essencial pois permite que cada um trabalhe em recursos diferentes, o que seria impossível se todos trabalhassem no mesmo branch ao mesmo tempo.
 
+Quais são os prós e contras da mesclagem automática do Git v. sempre fazer mesclagens manualmente?
+
+	Resp. Como prós temos a velocidade do processo, como contras os conflitos, que também pode ser resolvidos facilmente de forma manual, ainda economizando muito tempo comparado a mesclagem completamente manual.
+
