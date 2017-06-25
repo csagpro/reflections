@@ -1,0 +1,17 @@
+O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
+
+	Resp. Todos os arquivos do diretório podem ser salvos e restaurados a partir do primeiro commit. Para indicar para o git o diretório que deve ser acompanhado.
+
+
+Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
+
+	Resp. A área de preparação serve para podermos salvar um diretório inteiro ao mesmo tempo. Como vamos modificar um arquivo por vez, podemos ir salvando cada arquivo temporariamente e quando todos estão prontos, podemos salvar o repositório inteiro em um único commit.
+
+Como você pode usar a área de preparação para garantir que tenha um commit por alteração lógica?
+
+	Resp. Através de salvamentos temporários para a staging area para garantir que as pequenas alterações não sejam perdidas, e quando concluído, podemos gerar um commit com uma alteração lógica.
+
+Quais são algumas das situações em que branches seriam úteis para manter seu histórico organizado? Como branches ajudariam?
+
+	Resp. Quando queremos criar novas funcionalidades ou modificar o código de forma mais drástica, podemos criar branches sem afetar o projeto principal. Ele permite uma mudança de contexto, ao passo que podemos iniciar ou continuar uma parte do projeto sem afetar o restante, pausar e continuar depois em outra parte. No que tange o trabalho em equipe, é essencial pois permite que cada um trabalhe em recursos diferentes, o que seria impossível se todos trabalhassem no mesmo branch ao mesmo tempo.
+
