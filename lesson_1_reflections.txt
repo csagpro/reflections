@@ -8,7 +8,7 @@ Como ter fácil acesso a todo o histórico de um arquivo pode torná-lo um progr
 
 Na sua opinião, quais são os prós e contras de escolher manualmente quando criar um commit, como ocorre no Git, v. o salvamento automático de versões, como no Google Docs?
 
-	Resp. Prós: Permite salvar somente quando alguma alteração importante é realizada. Contras: Podemos esquecer de salvar e acabar perdendo o arquivo.
+	Resp. Prós: Permite salvar somente quando alguma alteração importante é realizada. Contras: Podemos esquecer de salvar e acabar perdendo as alterações.
 
 Por que você acha que alguns sistemas de controle de versão, como o Git, permitem salvar vários arquivos em um commit, enquanto outros, como o Google Docs, tratam cada arquivo separadamente?
 
@@ -20,10 +20,10 @@ Como usar os comandos git log e git diff para visualizar o histórico dos arquiv
 
 De que modo o controle de versão pode dar a você mais segurança para fazer alterações que podem danificar algo?
 
-	Resp. De modo que podemos restaurar a versão anterior facilmente.
+	Resp. De modo que torna possível restaurar a versão anterior facilmente.
 
 Agora que você já configurou a sua área de trabalho, você quer usar o Git para quê?
 
-	Resp. Para todó e qualquer código que eu digitar, devido a segurança e flexibilidade.
+	Resp. Para todo e qualquer código que eu desenvolver, devido a segurança, velocidade de manutenção e flexibilidade.
 
 	
