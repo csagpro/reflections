@@ -1,0 +1,5 @@
+Quando gostaria de usar um repositório remoto em vez de manter o trabalho local?
+
+  Resp. Sempre, pois além de trazer segurança como um backup, podemos continuar trabalhando mesmo quando não estamos em nosso computador e no compartilhamento com a comunidade e para trabalho em equipe.
+  
+  
