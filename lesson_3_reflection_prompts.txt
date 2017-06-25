@@ -1,5 +1,8 @@
 Quando gostaria de usar um repositório remoto em vez de manter o trabalho local?
 
-  Resp. Sempre, pois além de trazer segurança como um backup, podemos continuar trabalhando mesmo quando não estamos em nosso computador e no compartilhamento com a comunidade e para trabalho em equipe.
+	Resp. Sempre, pois além de trazer segurança como um backup, podemos continuar trabalhando mesmo quando não estamos em nosso computador e no compartilhamento com a comunidade e para trabalho em equipe.
   
-  
+Por que você prefere efetuar pull de alterações manualmente do que deixar o Git atualizar-se automaticamente com o seu repositório remoto?
+
+	Resp. Pois um projeto que gostariamos de compartilhar somente depois de pronto não poderia ser enviado automaticamente ao github.
+
