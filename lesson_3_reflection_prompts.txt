@@ -6,3 +6,9 @@ Por que você prefere efetuar pull de alterações manualmente do que deixar o G
 
 	Resp. Pois um projeto que gostariamos de compartilhar somente depois de pronto não poderia ser enviado automaticamente ao github.
 
+Descreva as diferenças entre bifurcações, clones e branches. Quando você usaria um e não os outros?
+
+	Resp. Bifurcação é um clone de outro repositorio dentro do github, já clones são cópias de repositórios do github para um computador local e branchs são rótulos de commits dentro de qualquer um desses repositórios.
+
+
+
