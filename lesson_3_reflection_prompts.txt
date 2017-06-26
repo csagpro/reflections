@@ -14,3 +14,7 @@ Qual é o benefício de ter uma cópia do último estado conhecido do remoto arm
 
 	Resp. Permite-nos saber onde foi o último push e a analisar as diferenças entre a versão remota e a local. 
 
+Como você colaboraria sem usar Git ou GitHub? O que seria mais fácil e mais difícil?
+
+	Resp. Definiria uma parte ou funcionalidade especifica para trabalhar em coisas diferentes dos outros colaboradores. A parte difícil seria não poder verificar facilmente as alterações dos colaboradores e não ter ajuda em algum ponto que estou trabalhando sozinho. 
+
