@@ -16,5 +16,11 @@ Qual é o benefício de ter uma cópia do último estado conhecido do remoto arm
 
 Como você colaboraria sem usar Git ou GitHub? O que seria mais fácil e mais difícil?
 
-	Resp. Definiria uma parte ou funcionalidade especifica para trabalhar em coisas diferentes dos outros colaboradores. A parte difícil seria não poder verificar facilmente as alterações dos colaboradores e não ter ajuda em algum ponto que estou trabalhando sozinho. 
+	Resp. Definiria uma parte ou funcionalidade especifica para trabalhar em coisas diferentes dos outros colaboradores. A parte difícil seria não poder verificar facilmente as alterações dos colaboradores e não ter ajuda em algum ponto que estou trabalhando sozinho.
+
+Quando você gostaria de fazer alterações em um branch separado, e não diretamente no master? Quais são os benefícios de cada abordagem?
+
+	Resp. Quando estou testando uma nova ferramenta ou corrigindo um bug. Segurança e flexibilidade para testar novas features sem destruir com o branch principal.
+
+	 
 
